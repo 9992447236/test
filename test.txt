@@ -1,2 +1,1 @@
-welcome git to jenkins
-welocme to /var/lib/jenkins
+delhi
